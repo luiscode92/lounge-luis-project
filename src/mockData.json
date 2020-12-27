@@ -1,0 +1,98 @@
+ {
+  "desks": [
+    {
+        "deskId": "1",
+        "image":"/images/yourDeskNight.imageset/Group1242@2x.png",
+        "name": "Alex",
+        "status": "@Alex's Desk",
+        "avatr": "/images/profile/1.jpg"
+    },
+    {
+        "deskId": "2",
+        "image":"/images/yourDeskAM.imageset/Group1246@2x.png",
+        "name": "Taiwo",
+        "status": "@Alex's Desk",
+        "avatr": "/images/profile/2.jpg"
+    },
+    {
+        "deskId": "3",
+        "image":"/images/yourDesk.imageset/Slice1@2x.png",
+        "name": "Jason",
+        "status": "offline",
+        "avatr": "/images/profile/3.jpg"
+    },
+    {
+        "deskId": "4",
+        "image":"/images/yourDeskNight.imageset/Group1242@2x.png",
+        "name": "Jenny",
+        "status": "offline",
+        "avatr": "/images/profile/4.jpg"
+    },
+    {
+        "deskId": "5",
+        "image":"/images/yourDesk.imageset/Slice1@2x.png",
+        "name": "Mary",
+        "status": "@Mary's Desk",
+        "avatr": "/images/profile/5.jpg"
+    },
+    {
+        "deskId": "6",
+        "image":"/images/yourDeskNight.imageset/Group1242@2x.png",
+        "name": "Paul",
+        "status": "offline",
+        "avatr": "/images/profile/6.jpg"
+    }
+],
+"rooms": [
+    {
+        "roomId": "1",
+        "image": "/images/roomBig2.imageset/Slice2@2x.png",
+        "room_name": "Study Room"
+    },
+    {
+        "roomId": "2",
+        "image": "/images/roomBig6.imageset/Slice8@2x.png",
+        "room_name": "Design"
+    },
+    {
+        "roomId": "3",
+        "image": "/images/roomBig7.imageset/Slice5@2x.png",
+        "room_name": "Engineering"
+    },
+    {
+        "roomId": "4",
+        "image": "/images/roomBig3.imageset/Slice4@2x.png",
+        "room_name": "Cafeteria"
+    },
+    {
+        "roomId": "5",
+        "image": "/images/roomBig5.imageset/Slice7@2x.png",
+        "room_name": "Standups"
+    },
+    {
+        "roomId": "6",
+        "image": "/images/roomBig6.imageset/Slice8@2x.png",
+        "room_name": "Design"
+    },
+    {
+        "roomId": "7",
+        "image": "/images/roomBig8.imageset/Slice3@2x(1).png",
+        "room_name": "Orange"
+    },
+    {
+        "roomId": "8",
+        "image": "/images/roomBig6.imageset/Slice8@2x.png",
+        "room_name": "Blue"
+    },
+    {
+        "roomId": "9",
+        "image": "/images/roomBig6.imageset/Slice8@2x.png",
+        "room_name": "Headspace"
+    },
+    {
+        "roomId": "10",
+        "image": "/images/roomBig6.imageset/Slice8@2x.png",
+        "room_name": "Mountains"
+    }
+]
+}
